@@ -7,7 +7,7 @@ This repository contains the code to generate the results and figures from
 Kami Pekayvaz*, Corinna Losert*, Viktoria Knottenberg*, Irene V. van Blokland, Roy Oelen, Hilde E. Groot, Jan Walter Benjamins, Sophia Brambs, Rainer Kaiser, Luke Eivers, Vivien Polewka, Raphael Escaig, Markus Joppich, Aleksandar Janjic, Oliver Popp, Tobias Petzold, Ralf Zimmer, Wolfgang Enard, Kathrin Saar, Philipp Mertins, Norbert Huebner, Pim van der Harst, Lude H. Franke, Monique G. P. van der Wijst, Steffen Massberg, Matthias Heinig#, Leo Nicolai# and Konstantin Stark#
 
 \* These authors contributed equally<br>
-# These authors contributed equally<br>
+\# These authors contributed equally<br>
 
 Preprint: TBD
 
